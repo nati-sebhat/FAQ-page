@@ -1,9 +1,14 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{FAQ-Page} | devChallenges</h1>
+<h1 align="center">FAQ Page | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+  Solution for a challenge  
+  <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">
+    Simple FAQ
+  </a>  
+  from  
+  <a href="https://devchallenges.io" target="_blank">
+    devChallenges.io
+  </a>
 </div>
 
 <div align="center">
@@ -14,68 +19,60 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+---
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Overview](#overview)
-- [What I learned](#what-i-learned)
-- [Built with](#built-with)
+- [What I Learned](#what-i-learned)
+- [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
+- [Author](#author)
 
+---
 
-<!-- OVERVIEW -->
+## 🖼️ Overview
 
-## Overview
+![Screenshot](./FAQ-image.png)
 
-![screenshot](./FAQ-image.png)
+---
 
+## 📚 What I Learned
 
+While building this simple FAQ webpage, I learned how to structure a web page using semantic HTML elements like `<div>`, `<h1>`, `<p>`, `<ol>`, and `<ul>`.  
+I also gained experience linking an external CSS file and using internal styles for layout and design.  
+I learned how to apply fonts, colors, spacing, and background styling, and how to style links with pseudo-classes like `:hover` and `:visited`.  
+Additionally, I practiced making a visually clean and readable layout with centered and organized sections.
 
-### What I learned
+---
 
- While building this simple FAQ webpage, I learned how to structure a web page using semantic HTML elements like <div>, <h1>, <p>, <ol>, and <ul>. I also gained experience linking a CSS file and using internal styles to control layout and design. I learned how to apply fonts, colors, spacing, and backgrounds using CSS, and how to style links with different states like :hover and :visited. Additionally, I discovered how to make the page more user-friendly by centering content and organizing sections clearly. 
+## 🛠️ Built With
 
+- Semantic HTML5 markup  
+- CSS custom properties  
+- Vanilla CSS (no frameworks)  
+- Responsive design via the viewport meta tag  
+- Visual Studio Code  
+- Git & GitHub for version control  
 
+---
 
-### Built with
+## ✨ Features
 
- 
+- ✅ Clean, responsive layout using semantic HTML5  
+- 📌 FAQ section with clear headings and organized lists  
+- 🔗 Styled links with hover and visited effects  
+- 🎨 Light, readable background and styled typography  
+- 📄 Lists structured with `<ol>` and `<ul>` elements  
+- ✂️ Centered and custom-styled `<hr>` for section separation  
+- 📱 Mobile responsive using viewport meta tag  
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Vanilla CSS (no frameworks)
-- Responsive design with viewport meta tag
-- Visual Studio Code
-- Git & GitHub for version control
+---
 
-## Features
+## 👤 Author
 
- ✅ Clean, responsive layout using semantic HTML5 and structured sections
+- GitHub: [@nati-sebhat](https://github.com/nati-sebhat)
 
-📌 Frequently Asked Questions section with organized headings and lists
+---
 
-🔗 Styled hyperlinks with hover effects for better user experience
-
-🎨 Light background with styled text for readability
-
-📄 Structured lists using <ol> and <ul> elements for clarity
-
-✨ Custom horizontal line (<hr>) styled and centered for visual separation
-
-📱 Responsive meta tag included to adapt to mobile devices
-
-
-
- :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
-
-
-
-
-## Author
-
-
-- GitHub [@nati-sebhat](https://{github.com/nati-sebhat})
+> This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
