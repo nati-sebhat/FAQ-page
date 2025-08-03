@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center">{FAQ-Page} | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,14 +8,6 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenge/simple-faq-challenge">
       Challenge
     </a>
@@ -43,13 +35,13 @@
 
 ### What I learned
 
-<!-- While building this simple FAQ webpage, I learned how to structure a web page using semantic HTML elements like <div>, <h1>, <p>, <ol>, and <ul>. I also gained experience linking a CSS file and using internal styles to control layout and design. I learned how to apply fonts, colors, spacing, and backgrounds using CSS, and how to style links with different states like :hover and :visited. Additionally, I discovered how to make the page more user-friendly by centering content and organizing sections clearly. -->
+ While building this simple FAQ webpage, I learned how to structure a web page using semantic HTML elements like <div>, <h1>, <p>, <ol>, and <ul>. I also gained experience linking a CSS file and using internal styles to control layout and design. I learned how to apply fonts, colors, spacing, and backgrounds using CSS, and how to style links with different states like :hover and :visited. Additionally, I discovered how to make the page more user-friendly by centering content and organizing sections clearly. 
 
 
 
 ### Built with
 
-<!-- 
+ 
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -57,10 +49,10 @@
 - Responsive design with viewport meta tag
 - Visual Studio Code
 - Git & GitHub for version control
--->
+
 ## Features
 
-<!-- ✅ Clean, responsive layout using semantic HTML5 and structured sections
+ ✅ Clean, responsive layout using semantic HTML5 and structured sections
 
 📌 Frequently Asked Questions section with organized headings and lists
 
